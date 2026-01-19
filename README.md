@@ -1,2 +1,5 @@
 # YATENDER_GIT_PRACTICE
-git and github learning Repository
+Author: Yatender Singh
+<br>
+Description:git and github learning Repository
+
